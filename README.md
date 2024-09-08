@@ -1,5 +1,5 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F95746151%2FWIJMOBIEL-GIF-ANIMATED-BANNERS%3Flocale%3Dko_KR&psig=AOvVaw2xLEwatgISPh9EIHyrxb3R&ust=1725878054131000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJD8gIaTs4gDFQAAAAAdAAAAABAZ)]
-<h1 align="center">Hi 👋, I'm Khushiii</h1>
+<h1 align="center">Namaskaram🙏, I'm Khushiii</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
