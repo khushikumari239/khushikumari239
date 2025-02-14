@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/khushimehappy" target="blank"><img src="https://img.shields.io/twitter/follow/khushimehappy?logo=twitter&style=for-the-badge" alt="khushimehappy" /></a> </p>
 
-- 🔭 I’m currently working on **Musify-App**
+- 🔭 I’m currently working on **MY Personal Project**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **Webdevelopment, UI-UX**
+- 💬 Ask me about **Webdevelopment, WEB3 and AI**
 
 - 📫 How to reach me **khushikumari2392006@gmail**
 
